@@ -1,0 +1,15 @@
+Source: libjs-bootstrap-tagsinput
+Section: web
+Priority: extra
+Maintainer: Rémi Palancher <remi-externe.palancher@edf.fr>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.6
+Homepage: http://twitter.github.io/typeahead.js/
+
+Package: libjs-bootstrap-tagsinput
+Architecture: all
+Depends: ${misc:Depends}, libjs-jquery, libjs-bootstrap
+Recommends: javascript-common
+Description: tagsinput plugin for bootstrap3
+ libjs-bootstrap-tagsinput is a jQuery plugin providing a Twitter
+ Bootstrap user interface for managing tags.
