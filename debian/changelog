@@ -1,3 +1,9 @@
+libjs-bootstrap-tagsinput (0.5.0-1+c9+1) calibre9; urgency=medium
+
+  * Non-maintainer upload.
+
+ -- Rémi Palancher <remi-externe.palancher@edf.fr>  Tue, 13 Oct 2015 14:47:04 +0200
+
 libjs-bootstrap-tagsinput (0.5.0-1) unstable; urgency=medium
 
   * Initial release
