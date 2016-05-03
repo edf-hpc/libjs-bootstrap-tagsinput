@@ -1,3 +1,9 @@
+libjs-bootstrap-tagsinput (0.8.0-1~calibre9+1) calibre9; urgency=medium
+
+  * Backport to calibre9.
+
+ -- Rémi Palancher <remi-externe.palancher@edf.fr>  Tue, 03 May 2016 14:23:03 +0200
+
 libjs-bootstrap-tagsinput (0.8.0-1) unstable; urgency=medium
 
   * New upstream version.
